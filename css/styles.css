@@ -275,8 +275,16 @@ img {
     border-radius: 0px 0px 4px 4px;
 }
 
+.prof-list-socials {
+    display: flex;
+    gap: 24px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 32px;
+}
+
 .profile-conteiner {
-    padding: 32px 0;
+    padding-top: 32px;
 }
 
 .profiles-list .third-tag {
@@ -286,6 +294,7 @@ img {
 
 .profiles-text {
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .portfolio {
@@ -307,6 +316,7 @@ img {
 
 .portfolio-list-cell {
     width: calc((100% - 48px) / 3);
+
 }
 
 .portfolio-list .third-tag {
