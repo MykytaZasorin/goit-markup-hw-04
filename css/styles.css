@@ -234,6 +234,18 @@ img {
     max-width: 264px;
 }
 
+.adv-container {
+    width: 264px;
+    height: 112px;
+    background-color: var(--cloud);
+    border: 1px solid var(--navy-blue);
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
 .advantages-list-cell {
     width: calc((100% - 72px) / 4);
 }
@@ -327,3 +339,19 @@ img {
     color: var(--cloud);
     max-width: 264px;
 }
+
+/* icons of .advantages .icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
