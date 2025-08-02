@@ -137,7 +137,6 @@ img {
     text-decoration: none;
     font-weight: 500;
     color: var(--navy-blue);
-/*     display: block; */
 }
 
 .header-links:hover,
@@ -164,6 +163,10 @@ img {
     display: block;
     padding-top: 188px;
     padding-bottom: 188px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+    url(../images/main_photo/background-main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .main-tag {
