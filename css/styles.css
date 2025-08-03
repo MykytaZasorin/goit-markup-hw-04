@@ -299,7 +299,7 @@ img {
     position: relative;
 }
 
-.profiles-svg {
+.svg {
     fill: var(--cloud);
     position: absolute;
     top: 50%;
