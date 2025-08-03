@@ -378,7 +378,7 @@ img {
 
 .footer .container {
     justify-content: flex-start;
-    margin-left: 156px;
+    margin-left: 0;
     margin-right: 120px;
 }
 
