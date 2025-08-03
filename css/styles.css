@@ -291,6 +291,22 @@ img {
     margin-bottom: 32px;
 }
 
+.prof-list-socials li {
+    width: 40px;
+    height: 40px;
+    background-color: var(--iris);
+    border-radius: 50%;
+    position: relative;
+}
+
+.profiles-svg {
+    fill: var(--cloud);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .profile-conteiner {
     padding-top: 32px;
 }
