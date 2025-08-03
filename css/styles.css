@@ -446,7 +446,6 @@ img {
 .footer {
     background-color: var(--navy-blue);
     padding: 100px 0;
-    display: flex;
 }
 
 .footer .container {
