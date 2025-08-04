@@ -452,9 +452,10 @@ img {
     display: flex;
     align-items: baseline;
     margin-left: 0;
+    margin-right: 0;
 }
 
-.container-footer-logo {
+.footer-cont-logo {
     margin-right: 120px;
 }
 
