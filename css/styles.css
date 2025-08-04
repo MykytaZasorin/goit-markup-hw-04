@@ -123,8 +123,7 @@ img {
 }
 
 .main {
-    width: auto;
-    margin: 0;
+    margin: 0 auto;
 }
 
 .main-tag {
