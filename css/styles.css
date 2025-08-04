@@ -354,8 +354,8 @@ img {
     fill: var(--cloud);
 }
 
-.profiles .container {
-    padding-top: 32px 0;
+.profiles-container-desc {
+    padding: 32px 0;
 }
 
 .profiles-list .third-tag {
