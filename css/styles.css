@@ -197,7 +197,7 @@ img {
     padding-top: 188px;
     padding-bottom: 188px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-    url(/images/main_photo/background_main.jpg);
+    url(/images/background_main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -409,10 +409,6 @@ img {
 }
 
 .portfolio-container {
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    width: 360px;
-    height: 300px;
     justify-content: center;
     position: relative;
     overflow: hidden;
