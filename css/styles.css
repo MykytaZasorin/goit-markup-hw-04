@@ -197,7 +197,7 @@ img {
     padding-top: 188px;
     padding-bottom: 188px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-    url(/images/background_main.jpg);
+    url("/images/background_main.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
