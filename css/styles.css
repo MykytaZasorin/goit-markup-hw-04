@@ -354,9 +354,9 @@ img {
     fill: var(--cloud);
 }
 
-.profiles-container-desc {
+/* .profiles-container-desc {
     padding: 32px 0;
-}
+} */
 
 .profiles-list .third-tag {
     margin-bottom: 8px;
