@@ -386,7 +386,6 @@ img {
 
 .portfolio-list-cell {
     width: calc((100% - 48px) / 3);
-    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio-list-cell:hover {
@@ -408,6 +407,7 @@ img {
     justify-content: center;
     position: relative;
     overflow: hidden;
+    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio-image-text {
